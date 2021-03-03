@@ -24,6 +24,8 @@ You just need to open a terminal in the directory `src/` and type `make`.
 To compile it in release mode (optimized) just type `make optm`.
 Objects are stored in a directory `obj/` and the executables will appear in `bin/`.
 
+Alternatively you can use any IDE suitable for Fortran (e.g. create a Fortran project in Visual Studio).
+
 ## Usage
 When running the executable `GPROPT(_debug)`, the number of design variables and the optimization method are prompted.
 For uni-dimensional problems the following options are available:
